@@ -37,11 +37,28 @@ Grap clearly illustrates the more males use citibike than females.
 ###User Types by Weekday and Gender
 Males are more likely to be citibike users as well as subscribers.  Customers are more likely to fall under the gender "unknown" category.
 ![User Types by Gender and Weekday](https://github.com/stephenanayashilliard/Bikesharing/blob/main/Resources/User_Types_by_Gender_by_Weekday..png)
+
+###User Type by Gender
+Male riders are almost 3 times more likely to be subscribers than females.
+![User type by Gender](https://github.com/stephenanayashilliard/Bikesharing/blob/main/Resources/User_Types_by_Gender.png)
+
+###User Birth Years by Gender
+Majority of subscribers are in their late 20's to mid 30's.  Over 200k of "unknown" riders are in the mid 50's.
+![User Birth Years by Gender](https://github.com/stephenanayashilliard/Bikesharing/blob/main/Resources/User_Birth_Year_by_Gender.png)
+
+###User Types by Birth Year
+Vast majority of subscribers are more likely to be in their mid 20's.  There is a sharp uptik of subscribers in their mid 50's then a rapid decline of subscribers for those in their mid 40's.
+![User types by birth Year](https://github.com/stephenanayashilliard/Bikesharing/blob/main/Resources/User_Types_by_Birth_Year.png)
     
 ### Questions raised:
 - Why is there a considerable drop in bike use for Wednesday afternoon/evening's rush hours when compared to other weekdays?
 - Why is there a considerable increase in Thursday afternoon/evening's rush hour when compared to other weekdays?
+- Why are males more likely to be subscribers than females?
+- Why are the vast majority of "unknown" riders in their mid 50's?
+- Why is here is a sharp uptik of subscribers in their mid 50's then a rapid decline of subscribers for those in their mid 40's?
+
 
 ### Further Queries
 - Currently have no data on the gender of 5,699 riders. Recomend requesting gender identification from all users in order to verify market potential for female riders. 
 - Graphic verifying number of riders using service for commute and or leisure.
+- Graphic illustrating where each rider group is graphically based.  Is there a correlation between where riders live and or work?
