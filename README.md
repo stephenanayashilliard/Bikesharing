@@ -1,4 +1,4 @@
-# Bikesharing
+# Citibike
 ## Overview
 Using Tableau, a data visualization software;  we produced several graphs for a  business proposal to present to a bike-sharing company.  The graphs presented:
 - Trips by Weekday for Each Hour
@@ -20,6 +20,6 @@ Using Tableau, a data visualization software;  we produced several graphs for a 
 ## Graph Summary
 
 ###Trips by Weekday for each Hour
-[Trips by Weekday for each Hour](https://github.com/stephenanayashilliard/Bikesharing/blob/main/Resources/Trips_by_Weekday_for_each_Hour.png)
+![Trips by Weekday for each Hour](https://github.com/stephenanayashilliard/Bikesharing/blob/main/Resources/Trips_by_Weekday_for_each_Hour.png)
     
 ### Business Reommendations
