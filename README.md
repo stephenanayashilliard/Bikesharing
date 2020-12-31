@@ -18,5 +18,8 @@ Using Tableau, a data visualization software;  we produced several graphs for a 
 [Tableau Link:Citibike](https://public.tableau.com/profile/stephen.anayas.hilliard#!/vizhome/Citibike_16094403993850/CitibikeDataVisualization?publish=yes)
 
 ## Graph Summary
+
+###Trips by Weekday for each Hour
+[Trips by Weekday for each Hour](https://github.com/stephenanayashilliard/Bikesharing/blob/main/Resources/Trips_by_Weekday_for_each_Hour.png)
     
 ### Business Reommendations
