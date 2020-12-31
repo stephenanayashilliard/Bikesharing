@@ -19,40 +19,40 @@ Using Tableau, a data visualization software;  we produced several graphs for a 
 
 ## Graph Summary
 
-###Trips by Weekday for each Hour
+### Trips by Weekday for each Hour
 
 There is a steady use of citibikes on weekends between the hours of 8 am and 8 pm with slightly more usage on Saturdays.  Density for citibike use during weekdays focuses primarily during what are considered normal rush hours.
 ![Trips by Weekday for each Hour](https://github.com/stephenanayashilliard/Bikesharing/blob/main/Resources/Trips_by_Weekday_for_each_Hour.png)
 
-###Checkout Time for Users
+### Checkout Time for Users
 
 Trip duration based on the hours when citibikes have been signed out.  Illustrates that citibike is being used extensively for commuting to and from work.
 ![Checkout Time for Users](https://github.com/stephenanayashilliard/Bikesharing/blob/main/Resources/Checkout_Time_For_Users.png)
 
-###Trips by Gender (Weekday per hour)
+### Trips by Gender (Weekday per hour)
 
 Grap clearly illustrates the more males use citibike than females.
 ![Trips by Gender](https://github.com/stephenanayashilliard/Bikesharing/blob/main/Resources/Trips_by_Gender(Weekday_per_Hour).png)
 
-###Checkout Time by Gender
+### Checkout Time by Gender
 ![checkout time by gender(https://github.com/stephenanayashilliard/Bikesharing/blob/main/Resources/Checkout_Time_by_Gender.png)
 
-###User Types by Weekday and Gender
+### User Types by Weekday and Gender
 
 Males are more likely to be citibike users as well as subscribers.  Customers are more likely to fall under the gender "unknown" category.
 ![User Types by Gender and Weekday](https://github.com/stephenanayashilliard/Bikesharing/blob/main/Resources/User_Types_by_Gender_by_Weekday..png)
 
-###User Type by Gender
+### User Type by Gender
 
 Male riders are almost 3 times more likely to be subscribers than females.
 ![User type by Gender](https://github.com/stephenanayashilliard/Bikesharing/blob/main/Resources/User_Types_by_Gender.png)
 
-###User Birth Years by Gender
+### User Birth Years by Gender
 
 Majority of subscribers are in their late 20's to mid 30's.  Over 200k of "unknown" riders are in the mid 50's.
 ![User Birth Years by Gender](https://github.com/stephenanayashilliard/Bikesharing/blob/main/Resources/User_Birth_Year_by_Gender.png)
 
-###User Types by Birth Year
+### User Types by Birth Year
 
 Vast majority of subscribers are more likely to be in their mid 20's.  There is a sharp uptik of subscribers in their mid 50's then a rapid decline of subscribers for those in their mid 40's.
 ![User types by birth Year](https://github.com/stephenanayashilliard/Bikesharing/blob/main/Resources/User_Types_by_Birth_Year.png)
