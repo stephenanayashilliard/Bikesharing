@@ -10,9 +10,11 @@ Using Tableau, a data visualization software;  we produced several graphs for a 
 ### Resources
 - Data Source: 202908-citibike-tripdata
 - Software:
- - Python 3.6.1
- - Pandas
- - Tableau 2020.4
+  - Python 3.6.1
+    - Pandas
+- Tools
+  - Tableau 2020.4
+  - Jupyter Notebook
 
 ## Tableau Link
 [Tableau Link:Citibike](https://public.tableau.com/profile/stephen.anayas.hilliard#!/vizhome/Citibike_16094403993850/CitibikeDataVisualization?publish=yes)
@@ -35,7 +37,7 @@ Grap clearly illustrates the more males use citibike than females.
 ![Trips by Gender](https://github.com/stephenanayashilliard/Bikesharing/blob/main/Resources/Trips_by_Gender(Weekday_per_Hour).png)
 
 ### Checkout Time by Gender
-![checkout time by gender(https://github.com/stephenanayashilliard/Bikesharing/blob/main/Resources/Checkout_Time_by_Gender.png)
+![checkout time by gender](https://github.com/stephenanayashilliard/Bikesharing/blob/main/Resources/Checkout_Time_by_Gender.png)
 
 ### User Types by Weekday and Gender
 
@@ -69,3 +71,8 @@ Vast majority of subscribers are more likely to be in their mid 20's.  There is 
 - Currently have no data on the gender of 5,699 riders. Recomend requesting gender identification from all users in order to verify market potential for female riders. 
 - Graphic verifying number of riders using service for commute and or leisure.
 - Graphic illustrating where each rider group is graphically based.  Is there a correlation between where riders live and or work?
+
+# Contact Information
+Email: Stephenanayashilliard@gmail.com
+
+Linkedin: [Linkedin for Stephen Anayas-Hilliard](https://www.linkedin.com/in/stephen-anayas-hilliard-942a8431/)
